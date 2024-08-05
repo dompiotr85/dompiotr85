@@ -4,12 +4,12 @@ My name is Piotr Domański and I am very happy to welcome you on board with my G
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my open source projects.
+- 🔭 I’m currently working on my open source project named: [WinRuler](https://github.com/dompiotr85/WinRuler).
 - 🌱 I’m always learning although currently I'm refreshing my knowledge about C++ language, Git distributed version control software system and GitHub hosting service for software projects.
 - 👯 I’m looking to collaborate on someone else software projects.
 - 🤔 I’m looking for help with my open source projects.
 - 💬 If you have any further questions, don't hesitate to ask me.
-- 📫 You can reach me by [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior)
+- 📫 You can reach me by [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior).
 
 ## Tools, Technologies and Programming Languages I know
 
@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 
 ## Some statistics
 
+<center>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)
 [![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)
+</center>
 
 ### Attribution
 
