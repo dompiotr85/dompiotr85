@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on someone else software projects.
 - 🤔 I’m looking for help with my open source projects.
 - 💬 If you have any further questions, don't hesitate to ask me.
-- 📫 You can reach me by [E-Mail>](mailto:positive.podi@gmail.com) [<img src="https://github.com/ErickSimoes/email-icon/blob/master/fb.png"/>](https://www.facebook.com/doman.junior)
+- 📫 You can reach me by [E-Mail](mailto:positive.podi@gmail.com) [<img src="https://github.com/ErickSimoes/email-icon/blob/master/fb.png"/>](https://www.facebook.com/doman.junior)
