@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ## Some statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dompiotr85.dompiotr85&left_color=green&right_color=red)
 
 ### Attribution
 
