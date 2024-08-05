@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Debian)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 
+## Some statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)
+
 ### Attribution
 
 This Readme.md file uses free Third-Party images and icons from [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
