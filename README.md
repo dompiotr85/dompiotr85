@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## Tools and Technology I know
 
-[<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000"/>]
+[<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000"/>](https://en.wikipedia.org/wiki/Delphi_(software))
 
 
 ## Some Frameworks and Platforms I'm familiar with
