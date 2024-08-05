@@ -29,6 +29,18 @@ Here are some ideas to get you started:
 
 ## Some Frameworks and Platforms I'm familiar with
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Visual_Studio)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Code::Blocks)
+[<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Delphi_(software))
+[<img src="" width="64" height="64"/>]()
+[<img src="" width="64" height="64"/>]()
+
+## In what Operating Systems I'm working in
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Microsoft_Windows)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Debian)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
+
 ### Attribution
 
 This Readme.md file uses free Third-Party images and icons from [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
