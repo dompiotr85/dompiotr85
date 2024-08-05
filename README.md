@@ -37,10 +37,8 @@ Here are some ideas to get you started:
 
 ## Some statistics
 
-<center>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)
 [![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)
-</center>
 
 ### Attribution
 
