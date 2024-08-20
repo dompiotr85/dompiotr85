@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ## Some statistics
 
-![](https://komarev.com/ghpvc/?username=dompiotr85)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)<br/>
 
 ### Attribution
 
