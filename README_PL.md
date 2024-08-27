@@ -1,20 +1,21 @@
-## Hi there 👋🏻
+## Witaj 👋🏻
 
 [English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
 
-My name is Piotr Domański and I am very happy to welcome you on board with my GitHub profile.
+Nazywam się Piotr Domański i jest mi bardzo miło przywitać Cię tutaj na mojej stronie na profilu GitHub.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my open source project named: [WinRuler](https://github.com/dompiotr85/WinRuler).
-- 🌱 I’m always learning although currently I'm refreshing my knowledge about C++ language, wxWidgets library,
-     SQLite library, Git distributed version control software system and GitHub hosting service for software projects.
-- 👯 I’m looking to collaborate on someone else software projects.
-- 🤔 I’m looking for help with my open source projects.
-- 💬 If you have any further questions, don't hesitate to ask me.
-- 📫 You can reach me by [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior).
+Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 
-## Tools, Technologies and Programming Languages I know
+- 🔭 Aktualnie pracuję nad własnym projektem open source o nazwie: [WinRuler](https://github.com/dompiotr85/WinRuler).
+- 🌱 Zawszę się uczę aczkolwiek aktualnie odświeżam swoją wiedzę w tematyce języka programowania C++, biblioteki wxWidgets,
+     biblioteki bazy danych SQLite, System rozproszonej kontroli wersji Git i usługa hostingu GitHub dla projektów oprogramowania.
+- 👯 Szukam współpracy przy projektach oprogramowania innych osób.
+- 🤔 Szukam pomocy przy moich projektach open source.
+- 💬 Jeżeli masz więcej pytań, nie wahaj się mnie zapytać.
+- 📫 Możesz się ze mną skontaktować poprzez [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior).
+
+## Narzędzia, technologie i języki programowania które znam
 
 [<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Lazarus_(software))
@@ -30,26 +31,27 @@ Here are some ideas to get you started:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GitHub)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GIMP)
 
-## Some Frameworks and Platforms I'm familiar with
+## Niektóre frameworki i platformy, z którymi jestem zaznajomiony
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Visual_Studio)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Code::Blocks)
 [<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Docker_(software))
 
-## In what Operating Systems I'm working in
+## W jakim systemie operacyjnym pracuję
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Linux)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Debian)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Raspberry_Pi_OS)
 
-## Some statistics
+## Kilka statystyk
 
 ![](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)<br/>
 
-### Attribution
+### Atrybucja
 
-This Readme.md file uses free Third-Party images and icons from [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
+Ten plik README_PL.md używa darmowych obrazów i ikon stron trzecich z [Icons8](https://icons8.com/),
+[Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
