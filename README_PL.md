@@ -1,6 +1,6 @@
 ## Witaj 👋🏻
 
-Zmień na [Angielski](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
+Zmień język na [Angielski](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
 
 Nazywam się Piotr Domański i jest mi bardzo miło przywitać Cię tutaj na mojej stronie na profilu GitHub.
 
@@ -29,6 +29,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Git)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GitHub)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GIMP)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Adobe_Photoshop)
 
 ## Niektóre frameworki i platformy, z którymi jestem zaznajomiony
 
@@ -47,7 +48,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 
 ## Kilka statystyk
 
-![](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
+![Profile views](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink&locale=pl)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark&locale=pl)](https://git.io/streak-stats)<br/>
 

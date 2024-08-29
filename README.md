@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-Change to [English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polish](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
+Change language to [English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polish](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
 
 My name is Piotr Domański and I am very happy to welcome you on board with my GitHub profile.
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Git)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GitHub)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GIMP)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
 ## Some Frameworks and Platforms I'm familiar with
 
@@ -47,10 +48,10 @@ Here are some ideas to get you started:
 
 ## Some statistics
 
-![](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
+![Profile views](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)<br/>
 
 ### Attribution
 
-This Readme.md file uses free Third-Party images and icons from [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
+This README.md file use free Third-Party images and icons from [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
