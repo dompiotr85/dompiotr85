@@ -6,7 +6,7 @@ My name is Piotr Domański and I am very happy to welcome you on board with my G
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my open source project named: [WinRuler](https://github.com/dompiotr85/WinRuler).
+- 🔭 I’m currently working on my open source C++ project named: [WinRuler](https://github.com/dompiotr85/WinRuler).
 - 🌱 I’m always learning although currently I'm refreshing my knowledge about C++ language, wxWidgets library,
      SQLite library, Git distributed version control software system and GitHub hosting service for software projects.
 - 👯 I’m looking to collaborate on someone else software projects.
