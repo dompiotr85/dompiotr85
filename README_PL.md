@@ -47,8 +47,8 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 ## Kilka statystyk
 
 ![](https://komarev.com/ghpvc/?username=dompiotr85)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark)](https://git.io/streak-stats)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dompiotr85&show_icons=true&theme=calm_pink&locale=pl)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dompiotr85&theme=onedark&locale=pl)](https://git.io/streak-stats)<br/>
 
 ### Atrybucja
 
