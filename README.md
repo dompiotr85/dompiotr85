@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on someone else software projects.
 - 🤔 I’m looking for help with my open source projects.
 - 💬 If you have any further questions, don't hesitate to ask me.
-- 📫 You can reach me by [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior).
+- 📫 You can reach me by using [E-Mail](mailto:positive.podi@gmail.com) or going on [Facebook](https://www.facebook.com/doman.junior) platform.
 
 ## Tools, Technologies and Programming Languages I know
 
