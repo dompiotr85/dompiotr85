@@ -1,19 +1,18 @@
 ## Witaj 👋🏻
 
-[English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
+Zmień na [Angielski](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
 
 Nazywam się Piotr Domański i jest mi bardzo miło przywitać Cię tutaj na mojej stronie na profilu GitHub.
-
 
 Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 
 - 🔭 Aktualnie pracuję nad własnym projektem open source o nazwie: [WinRuler](https://github.com/dompiotr85/WinRuler).
-- 🌱 Zawszę się uczę aczkolwiek aktualnie odświeżam swoją wiedzę w tematyce języka programowania C++, biblioteki wxWidgets,
-     biblioteki bazy danych SQLite, System rozproszonej kontroli wersji Git i usługa hostingu GitHub dla projektów oprogramowania.
+- 🌱 Zawsze się uczę, aczkolwiek aktualnie odświeżam swoją wiedzę w tematyce języka programowania C++, biblioteki wxWidgets, biblioteki bazy danych SQLite,
+     systemie rozproszonej kontroli wersji Git oraz usługi hostingu GitHub dla projektów oprogramowania.
 - 👯 Szukam współpracy przy projektach oprogramowania innych osób.
-- 🤔 Szukam pomocy przy moich projektach open source.
+- 🤔 Szukam osób, które chętnie pomogą mi przy moich projektach open source.
 - 💬 Jeżeli masz więcej pytań, nie wahaj się mnie zapytać.
-- 📫 Możesz się ze mną skontaktować poprzez [E-Mail](mailto:positive.podi@gmail.com), [Facebook](https://www.facebook.com/doman.junior).
+- 📫 Możesz się ze mną skontaktować używając [E-Mail](mailto:positive.podi@gmail.com) lub platformy [Facebook](https://www.facebook.com/doman.junior).
 
 ## Narzędzia, technologie i języki programowania które znam
 
@@ -38,7 +37,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Docker_(software))
 
-## W jakim systemie operacyjnym pracuję
+## W jakich systemach operacyjnych pracuję
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Linux)
@@ -53,5 +52,4 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 
 ### Atrybucja
 
-Ten plik README_PL.md używa darmowych obrazów i ikon stron trzecich z [Icons8](https://icons8.com/),
-[Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).
+Ten plik README_PL.md używa darmowych obrazów i ikon stron trzecich z [Icons8](https://icons8.com/), [Wikipedia](https://www.wikipedia.org/), [Free Pascal Compiler](https://www.freepascal.org/).

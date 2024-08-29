@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-[English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
+Change to [English](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polish](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
 
 My name is Piotr Domański and I am very happy to welcome you on board with my GitHub profile.
 
