@@ -7,8 +7,7 @@ Nazywam się Piotr Domański i jest mi bardzo miło przywitać Cię tutaj na moj
 Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 
 - 🔭 Aktualnie pracuję nad własnym projektem open source pisanym w języku C++ o nazwie: [WinRuler](https://github.com/dompiotr85/WinRuler).
-- 🌱 Zawsze się uczę, aczkolwiek aktualnie odświeżam swoją wiedzę w tematyce języka programowania C++, biblioteki wxWidgets, biblioteki bazy danych SQLite,
-     systemie rozproszonej kontroli wersji Git oraz usługi hostingu GitHub dla projektów oprogramowania.
+- 🌱 Zawsze się uczę, aczkolwiek aktualnie odświeżam swoją wiedzę w tematyce [języka programowania C++](https://pl.wikipedia.org/wiki/C++), przenośnej wieloplatformowej biblioteki klas C++ [wxWidgets](https://pl.wikipedia.org/wiki/WxWidgets) o otwartym kodzie źródłowym służącą do tworzenia graficznych interfejsów użytkownika, [Strukturalnego oraz deklaratywnego jezyka zapytań SQL](https://pl.wikipedia.org/wiki/SQL), biblioteki silnika bazy danych [SQLite](https://pl.wikipedia.org/wiki/SQLite), systemie rozproszonej kontroli wersji [Git](https://pl.wikipedia.org/wiki/Git_(oprogramowanie)) oraz usługi hostingu [GitHub](https://pl.wikipedia.org/wiki/GitHub) dla projektów oprogramowania.
 - 👯 Szukam współpracy przy projektach oprogramowania innych osób.
 - 🤔 Szukam osób, które chętnie pomogą mi przy moich projektach open source.
 - 💬 Jeżeli masz więcej pytań, nie wahaj się mnie zapytać.
