@@ -1,6 +1,6 @@
-## Witaj 👋🏻
-
 Zmień język na [Angielski](https://github.com/dompiotr85/dompiotr85/blob/main/README.md)|[Polski](https://github.com/dompiotr85/dompiotr85/blob/main/README_PL.md)
+
+## Witaj 👋🏻
 
 Nazywam się Piotr Domański i jest mi bardzo miło przywitać Cię tutaj na mojej stronie na profilu GitHub.
 
@@ -25,6 +25,11 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/CSS)
 [<img src="https://img.icons8.com/?size=100&id=v13GOfYIdvlQ&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/SQL)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/SQLite)
+[<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Microsoft_SQL_Server)
+[<img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/MySQL)
+[<img src="https://img.icons8.com/?size=100&id=DakakaPez2uy&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/MariaDB)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/PostgreSQL)
+[<img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" widht="64" height="64"/>](https://pl.wikipedia.org/wiki/Oracle_Database)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Git)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GitHub)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GIMP)
