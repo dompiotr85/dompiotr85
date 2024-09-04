@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/PostgreSQL)
 [<img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" widht="64" height="64"/>](https://en.wikipedia.org/wiki/Oracle_Database)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Git)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GitHub)
+[<img src="https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/GitHub)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GIMP)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 
