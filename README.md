@@ -6,7 +6,7 @@ My name is Piotr Domański and I am very happy to welcome you on board with my G
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my open source C++ project named: [WinRuler](https://github.com/dompiotr85/WinRuler).
+- 🔭 I’m currently working on my open source projects named: [WinRuler](https://github.com/dompiotr85/WinRuler) and [PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine).
 - 🌱 I’m always learning although currently I'm refreshing my knowledge about [C++](https://en.wikipedia.org/wiki/C%2B%2B) high-level, general-purpose programming language, [CMake](https://en.wikipedia.org/wiki/CMake) build automation, testing, packaging and installation of software by using a compiler-independent method, [wxWidgets](https://en.wikipedia.org/wiki/WxWidgets) toolkit and tools library for creating graphical user interfaces (GUIs) for cross-platform applications, [Structured Query Language (SQL)](https://en.wikipedia.org/wiki/SQL), [SQLite](https://en.wikipedia.org/wiki/SQLite) database engine library, [Git](https://en.wikipedia.org/wiki/Git) distributed version control software system and [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) high-level, class-based, object-oriented programming language.
 - 👯 I’m looking to collaborate on someone else software projects.
 - 🤔 I’m looking for help with my open source projects.
