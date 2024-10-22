@@ -41,7 +41,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GNU_Compiler_Collection)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Visual_Studio_Code)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Code::Blocks)
-[<img src="https://img.icons8.com/?size=100&id=105446&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Delphi_(software))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Docker_(software))
 
 ## W jakich systemach operacyjnych pracuję
