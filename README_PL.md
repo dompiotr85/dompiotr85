@@ -41,6 +41,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/GNU_Compiler_Collection)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Visual_Studio_Code)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Code::Blocks)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Xcode)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Docker_(software))
 
@@ -50,6 +51,7 @@ Oto kilka pomysłów, które pomogą Ci w rozpoczęciu przeglądania:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Linux)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Debian)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Raspberry_Pi_OS_Logo.png" width="64" height="64"/>](https://pl.wikipedia.org/wiki/Raspberry_Pi_OS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" width="64" height="64" style="border:1px solid white"/>](https://pl.wikipedia.org/wiki/MacOS)
 
 ## Kilka statystyk
 
