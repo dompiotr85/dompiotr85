@@ -39,7 +39,7 @@ reproducibility, and automation. Comparative analysis of compilation and code ge
 | Delphi                    | Expert            | Object-Oriented Programming       |
 | C                         | Expert            | Structural and Systems Programming |
 | C++                       | Expert            | Object-Oriented, General-Purpose, Concurrent |
-| Java                      | Expert            | Object-Oriented, Concurrent        |
+| Java                      | Advanced          | Object-Oriented, Concurrent        |
 | HTML5                     | Advanced          | Semantic Markup                   |
 | CSS                       | Advanced          | Cascading Stylesheets             |
 | SQL                       | Good              | Declarative Query Language       |
@@ -199,7 +199,7 @@ My multidisciplinary expertise, commitment to continuous development, and solid 
 *The above text is a comprehensive presentation of my skills and experience, taking into account all guidelines. I hope it will be valuable and help in the professional presentation of your GitHub profile.*
 
 * 💬 If you have more questions, don't hesitate to ask me.
-* 📫 You can contact me using [E-Mail](mailto:positive.podi@gmail.com) or the [Facebook](https://www.facebook.com/doman.junior) platform.
+* 📫 You can contact me using [E-Mail](mailto:piotr.domanski@podlode.pl) or the [Facebook](https://www.facebook.com/doman.junior) platform.
 
 ## Some statistics
 

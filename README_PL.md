@@ -232,7 +232,7 @@ przedsięwzięć.
 wartościowy i pomoże w profesjonalnej prezentacji Państwa profilu GitHub.*
 
 * 💬 Jeżeli masz więcej pytań, nie wahaj się mnie zapytać.
-* 📫 Możesz się ze mną skontaktować używając [E-Mail](mailto:positive.podi@gmail.com) lub platformy [Facebook](https://www.facebook.com/doman.junior).
+* 📫 Możesz się ze mną skontaktować używając [E-Mail](mailto:piotr.domanski@podlode.pl) lub platformy [Facebook](https://www.facebook.com/doman.junior).
 
 ## Kilka statystyk
 
