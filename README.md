@@ -94,7 +94,6 @@ My approach to software design is based on the principles of software engineerin
 This section presents my current open-source projects, which reflect my skills and passion in the field of software engineering. These projects are developed following best programming practices, with an emphasis on code quality, performance, and modularity. The goal of these projects is not only to expand my own skills but also to provide valuable and useful technology to the open-source community.
 
 ### [WinRuler](https://github.com/dompiotr85/WinRuler)
-### [PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine)
 
 ### Invitation to Collaborate 🤔
 

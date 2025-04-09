@@ -117,7 +117,6 @@ Celem tych projektów jest nie tylko poszerzanie własnych umiejętności, ale r
 open source.
 
 ### [WinRuler](https://github.com/dompiotr85/WinRuler)
-### [PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine)
 
 ### Zaproszenie do współpracy 🤔
 
