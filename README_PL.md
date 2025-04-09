@@ -117,15 +117,12 @@ Celem tych projektów jest nie tylko poszerzanie własnych umiejętności, ale r
 open source.
 
 ### [WinRuler](https://github.com/dompiotr85/WinRuler)
-### [PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine)
 
 ### Zaproszenie do współpracy 🤔
 
 #### Poszukiwanie aktywnych współpracowników w projektach open source
 
-W związku z dynamicznym rozwojem projektów open source [WinRuler](https://github.com/dompiotr85/WinRuler) i 
-[PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine), serdecznie zapraszam ambitnych i utalentowanych programistów, inżynierów
-oprogramowania oraz entuzjastów technologii do aktywnej współpracy. Poszukuję osób, które chcą dołączyć do zespołu, wnosić swój wkład w rozwój
+W związku z dynamicznym rozwojem projektu open source [WinRuler](https://github.com/dompiotr85/WinRuler), serdecznie zapraszam ambitnych i utalentowanych programistów, inżynierów oprogramowania oraz entuzjastów technologii do aktywnej współpracy. Poszukuję osób, które chcą dołączyć do zespołu, wnosić swój wkład w rozwój
 projektów, dzielić się wiedzą i doświadczeniem oraz razem ze mną tworzyć innowacyjne rozwiązania.
 
 ### Obszary współpracy 👯
@@ -166,8 +163,7 @@ ma swój istotny wkład w rozwój projektu.*
 
 Jeżeli jesteś zainteresowany współpracą, zapraszam do:
 
-1.  **Zapoznania się z projektem:** Przejrzyj repozytoria [WinRuler](https://github.com/dompiotr85/WinRuler) i
-[PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine) na GitHub.
+1.  **Zapoznania się z projektem:** Przejrzyj repozytoria [WinRuler](https://github.com/dompiotr85/WinRuler) na GitHub.
 2.  **Zgłoszenia chęci współpracy:** Skontaktuj się ze mną poprzez GitHub, zgłaszając issue w odpowiednim repozytorium lub przesyłając wiadomość
 prywatną z opisem swoich kompetencji, zainteresowań i pomysłów.
 3.  **Współpracy:** Po uzgodnieniu szczegółów, zapraszam do aktywnego udziału w rozwoju projektów.

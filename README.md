@@ -94,14 +94,12 @@ My approach to software design is based on the principles of software engineerin
 This section presents my current open-source projects, which reflect my skills and passion in the field of software engineering. These projects are developed following best programming practices, with an emphasis on code quality, performance, and modularity. The goal of these projects is not only to expand my own skills but also to provide valuable and useful technology to the open-source community.
 
 ### [WinRuler](https://github.com/dompiotr85/WinRuler)
-### [PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine)
 
 ### Invitation to Collaborate 🤔
 
 #### Seeking Active Collaborators for Open Source Projects
 
-Due to the dynamic development of the open-source projects [WinRuler](https://github.com/dompiotr85/WinRuler) and
-[PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine), I cordially invite ambitious and talented programmers, software engineers, and technology enthusiasts to actively collaborate. I am looking for people who want to join the team, contribute to the development of projects, share their knowledge and experience, and create innovative solutions together with me.
+Due to the dynamic development of the open-source project [WinRuler](https://github.com/dompiotr85/WinRuler), I cordially invite ambitious and talented programmers, software engineers, and technology enthusiasts to actively collaborate. I am looking for people who want to join the team, contribute to the development of projects, share their knowledge and experience, and create innovative solutions together with me.
 
 ### Areas of Collaboration 👯
 
@@ -137,8 +135,7 @@ I am looking for people with the following skills and characteristics:
 
 If you are interested in collaborating, I invite you to:
 
-1.  **Familiarize Yourself with the Project:** Review the repositories of [WinRuler](https://github.com/dompiotr85/WinRuler) and
-[PitahayaEngine](https://github.com/dompiotr85/PitahayaEngine) on GitHub.
+1.  **Familiarize Yourself with the Project:** Review the repository of [WinRuler](https://github.com/dompiotr85/WinRuler) on GitHub.
 2.  **Express Your Interest:** Contact me via GitHub by creating an issue in the appropriate repository or sending a private message with a description of your skills, interests, and ideas.
 3.  **Collaboration:** After agreeing on the details, I invite you to actively participate in the development of projects.
 
