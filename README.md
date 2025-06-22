@@ -175,7 +175,7 @@ If you are interested in collaborating, I invite you to:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Code::Blocks)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Xcode.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Xcode)
+[<img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" width="64" height="64"/>](https://en.wikipedia.org/wiki/Xcode)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Delphi_Logo_12.svg" width="64" height="64"/>](https://en.wikipedia.org/wiki/Delphi_(software))
 [<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="64" height="64"/>](https://en.wikipedia.org/wiki/Docker_(software))
 
